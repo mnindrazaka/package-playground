@@ -5,8 +5,6 @@ function hello() {
   console.log("hello world, today is " + today);
 }
 
-hello();
-
 module.exports = {
   hello,
 };
