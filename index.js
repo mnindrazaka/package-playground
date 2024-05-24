@@ -1,6 +1,11 @@
+const dayjs = require("dayjs");
+
 function hello() {
-  console.log("hello world");
+  const today = dayjs().format();
+  console.log("hello world, today is " + today);
 }
+
+hello();
 
 module.exports = {
   hello,

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mnindrazaka/package-playground/issues"
   },
-  "homepage": "https://github.com/mnindrazaka/package-playground#readme"
+  "homepage": "https://github.com/mnindrazaka/package-playground#readme",
+  "dependencies": {
+    "dayjs": "^1.11.11"
+  }
 }
