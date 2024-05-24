@@ -1,0 +1,19 @@
+{
+  "name": "package-playground",
+  "version": "1.0.0",
+  "description": "playground for practice publishing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/package-playground.git"
+  },
+  "author": "mnindrazaka@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/package-playground/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/package-playground#readme"
+}
