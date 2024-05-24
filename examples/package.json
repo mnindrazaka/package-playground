@@ -9,6 +9,6 @@
   "author": "mnindrazaka@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "package-playground": "^1.1.0"
+    "package-playground": "^1.1.1"
   }
 }
