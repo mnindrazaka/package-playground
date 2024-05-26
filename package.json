@@ -1,6 +1,6 @@
 {
   "name": "package-playground",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "playground for practice publishing npm package",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
     "@eslint/js": "^9.3.0",
     "eslint": "^9.3.0",
     "globals": "^15.3.0"
+  },
+  "peerDependencies": {
+    "moment": "^2.30.1"
   }
 }
